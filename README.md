@@ -18,7 +18,7 @@ Aahar is a full-stack food delivery web application designed to provide a seamle
 ## 🚀 Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/aahar-food-delivery.git
+   git clone https://github.com/SathishkumarMediga/AaharFoodExpress.git
    ```
 2. Import the project into your IDE (Eclipse/IntelliJ).
 3. Set up the MySQL database and update database credentials in the project.
